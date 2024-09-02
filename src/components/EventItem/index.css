@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.ImgEvent {
+  width: 100%;
+}
+li {
+  width: 20vw;
+  flex-grow: 1;
+}
+
+p {
+  color: white;
+}
+#btnList {
+  background-color: #323f4b;
+}
+.text {
+  line-height: 20px;
+}
